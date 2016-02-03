@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://148.205.133.111:8080/misitioweb/miWebService?WSDL" uri="wsdl/148.205.133.111_8080/misitioweb/miWebService.wsdl"/>
+    <system systemId="http://148.205.133.111:8080/misitioweb/miWebService?xsd=1" uri="wsdl/148.205.133.111_8080/misitioweb/miWebService.xsd_1.xsd"/>
+</catalog>

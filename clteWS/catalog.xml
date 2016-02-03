@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://148.205.133.123:8080/miSitioWeb/miWebService?WSDL" uri="xml-resources/web-service-references/miWebService/wsdl/148.205.133.123_8080/miSitioWeb/miWebService.wsdl"/>
+    <system systemId="http://148.205.133.123:8080/miSitioWeb/miWebService?xsd=1" uri="xml-resources/web-service-references/miWebService/wsdl/148.205.133.123_8080/miSitioWeb/miWebService.xsd_1.xsd"/>
+    <system systemId="http://148.205.133.123:8080/miSitioWeb/ServicioTiempos?WSDL" uri="xml-resources/web-service-references/ServicioTiempos/wsdl/148.205.133.123_8080/miSitioWeb/ServicioTiempos.wsdl"/>
+    <system systemId="http://148.205.133.123:8080/miSitioWeb/ServicioTiempos?xsd=1" uri="xml-resources/web-service-references/ServicioTiempos/wsdl/148.205.133.123_8080/miSitioWeb/ServicioTiempos.xsd_1.xsd"/>
+</catalog>

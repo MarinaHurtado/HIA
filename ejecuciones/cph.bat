@@ -1,0 +1,1 @@
+copy C:\Users\sdist\Documents\NetBeansProjects\HolaMundo\dist\HolaMundo.jar .

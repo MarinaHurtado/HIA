@@ -1,0 +1,1 @@
+copy C:\Users\sdist\Documents\NetBeansProjects\clteWS\dist\clteWS.jar .
